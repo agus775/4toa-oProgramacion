@@ -1,0 +1,16 @@
+#cardevento{
+    display: flex;
+    justify-content: center;
+}
+#Barradenavegación{
+    display: flex;
+    justify-content: center;
+
+}
+body {
+    background-color: aliceblue;
+    background-size: cover; /* Para que la imagen se ajuste al tamaño del cuerpo */
+    background-repeat: no-repeat; /* Para evitar que la imagen se repita */
+    background-attachment: fixed; /* Para que la imagen de fondo permanezca fija mientras se desplaza la página */
+}
+
